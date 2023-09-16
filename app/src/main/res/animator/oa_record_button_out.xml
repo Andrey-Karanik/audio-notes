@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1000"
+    android:interpolator="@android:interpolator/accelerate_cubic">
+
+    <propertyValuesHolder
+        android:propertyName="scaleX"
+        android:valueTo="0"/>
+    <propertyValuesHolder
+        android:propertyName="scaleY"
+        android:valueTo="0"/>
+    <propertyValuesHolder
+        android:propertyName="alpha"
+        android:valueTo="0"/>
+
+</objectAnimator>

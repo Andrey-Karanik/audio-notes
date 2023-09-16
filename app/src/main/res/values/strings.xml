@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AudioNotes</string>
+    <string name="app_name" translatable="false">AudioNotes</string>
+    <string name="main_activity_title">Your notes</string>
 </resources>
